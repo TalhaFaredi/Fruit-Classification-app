@@ -1,5 +1,3 @@
-
-
 # Fruit Classification App with Streamlit
 
 This is a simple Streamlit app for classifying fruits using a pre-trained deep learning model. Users can upload an image, and the app will make predictions based on a provided list of fruit classes.
